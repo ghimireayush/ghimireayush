@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aashutosh%20Ghimire&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20TypeScript%20Specialist&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aashutosh%20Ghimire&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20•%20React%20and%20TypeScript%20Specialist&descSize=20&descAlignY=55" />
 
 <br/>
 
 <p align="center">
   <a href="https://ghimireaashutosh.com.np">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aashutosh-ghimire-045755197">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 💎 Core Competencies
+## Core Competencies
 
 <table>
 <tr>
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-## 🏆 Featured Projects
+## Featured Projects
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-### 🛠️ ToolForge
+### ToolForge
 **100+ Developer Tools Platform**
 
 </div>
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-### ⚖️ Nepal Legal Connect
+### Nepal Legal Connect
 **Legal Tech for 30M+ Users**
 
 </div>
@@ -150,7 +150,7 @@
 
 <div align="center">
 
-### 🏔️ Bagamati Tourism
+### Bagamati Tourism
 **Government Tourism Portal**
 
 </div>
@@ -178,7 +178,7 @@
 
 <div align="center">
 
-### 🥛 Golmeshor Dairy
+### Golmeshor Dairy
 **E-Commerce Platform**
 
 </div>
@@ -220,7 +220,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" />
@@ -239,7 +239,7 @@
 
 <br/><br/>
 
-**Open to remote opportunities worldwide** 🌍
+**Open to remote opportunities worldwide**
 
 <br/>
 
