@@ -119,14 +119,14 @@ const aashutosh = {
 
 <div align="center">
 
-| 📈 **Total Commits (2025)** | 🔀 **Pull Requests** | 📝 **Issues** | 🤝 **Repos Contributed** |
-|:---------------------------:|:--------------------:|:-------------:|:------------------------:|
-| **162** | **1** | **0** | **1** |
+| 🔥 **Contributions (Last Year)** | 📈 **Commits (March 2026)** | 📦 **Repositories** | ⭐ **Total Stars** |
+|:--------------------------------:|:---------------------------:|:-------------------:|:------------------:|
+| **2,190+** | **749** | **5** | **1** |
 
 <br/>
 
 <a href="https://github.com/ghimireayush">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
 </a>
 
