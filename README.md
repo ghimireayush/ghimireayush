@@ -119,18 +119,12 @@ const aashutosh = {
 
 <div align="center">
 
-| 🔥 **Contributions (Last Year)** | 📈 **Commits (March 2026)** | 📦 **Repositories** | ⭐ **Total Stars** |
-|:--------------------------------:|:---------------------------:|:-------------------:|:------------------:|
-| **2,190+** | **749** | **5** | **1** |
-
-<br/>
-
 <a href="https://github.com/ghimireayush">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
