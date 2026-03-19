@@ -6,27 +6,27 @@
 
 <p align="center">
   <a href="https://ghimireaashutosh.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aashutosh-ghimire-045755197">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="mailto:ghimireayush9841@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://wa.me/9779867061277">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ghimireayush&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ghimireayush&amp;color=blueviolet&amp;style=for-the-badge"/>
 
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=10%2B+Production+Apps+Delivered;100%25+On-Time+Delivery+Record;40%25+Faster+Deployments;90%2B+Lighthouse+Scores" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=F85D7F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=10%2B+Production+Apps+Delivered;100%25+On-Time+Delivery+Record;40%25+Faster+Deployments;90%2B+Lighthouse+Scores" alt="Typing SVG" />
 </p>
 
 <br/><br/>
@@ -106,9 +106,9 @@
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo)
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&amp;logo=turborepo" alt="Turborepo" />
 
 [**View Project →**](https://tforge.netlify.app/)
 
@@ -135,9 +135,9 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase" alt="Supabase" />
 
 [**View Project →**](https://legaltechnepal.netlify.app/)
 
@@ -166,8 +166,8 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&amp;logo=react" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite" alt="Vite" />
 
 [**View Project →**](https://tourism.bagamati.gov.np/)
 
@@ -194,9 +194,9 @@
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa)
+<img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&amp;logo=next.js" alt="Next.js" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase" alt="Supabase" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&amp;logo=pwa" alt="PWA" />
 
 [**View Project →**](https://golmeshor-dairy.vercel.app/)
 
@@ -211,7 +211,7 @@
 <br/>
 
 <a href="https://ghimireaashutosh.com.np">
-  <img src="https://img.shields.io/badge/View_All_Projects-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_All_Projects-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -222,12 +222,12 @@
 
 ## GitHub Analytics
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=F85D7F&amp;ring=F85D7F&amp;fire=F8D866&amp;currStreakLabel=F8D866" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;langs_count=6" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true&height=300" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&amp;custom_title=Contribution%20Graph&amp;bg_color=0D1117&amp;color=F85D7F&amp;line=F8D866&amp;point=FFFFFF&amp;area_color=F8D866&amp;area=true&amp;hide_border=true&amp;height=300" />
 
 </div>
 
@@ -235,7 +235,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical&amp;border=true" />
 
 <br/><br/>
 
@@ -243,6 +243,6 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" />
 
 </div>
