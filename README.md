@@ -115,29 +115,56 @@ const aashutosh = {
 
 [**View All 10+ Projects →**](https://ghimireaashutosh.com.np)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true)
+<table>
+<tr>
+<td align="center">
+<strong>📈 Total Commits (2025)</strong><br/>
+<span style="font-size: 24px;">162</span>
+</td>
+<td align="center">
+<strong>🔀 Pull Requests</strong><br/>
+<span style="font-size: 24px;">1</span>
+</td>
+<td align="center">
+<strong>📝 Issues</strong><br/>
+<span style="font-size: 24px;">0</span>
+</td>
+<td align="center">
+<strong>🤝 Contributed To</strong><br/>
+<span style="font-size: 24px;">1</span>
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+<img src="https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=ghimireayush&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ghimireayush&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=ghimireayush&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ghimireayush)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ## 🎯 What I'm Up To
 
@@ -165,7 +192,7 @@ const aashutosh = {
 
 ### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🌟 Support My Work
 
