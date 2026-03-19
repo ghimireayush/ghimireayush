@@ -32,7 +32,9 @@ const developer = {
 
 ---
 
-##  Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -51,7 +53,9 @@ const developer = {
 
 ---
 
-##  Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -106,7 +110,9 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 ---
 
-##  GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -121,11 +127,15 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
+
 <div align="center">
 
-###  Open to Remote Opportunities Worldwide
+### 💼 Open to Remote Opportunities Worldwide
 
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-Visit_Portfolio-blue?style=for-the-badge)](https://ghimireaashutosh.com.np)
 
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,6,12,20&section=footer" />
