@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Aashutosh (Ayush) Ghimire
+# Hi, I'm Aashutosh (Ayush) Ghimire
 
-### 🚀 Frontend Developer | React & TypeScript Specialist | AI-Powered Rapid Prototyping
+###  Frontend Developer | React & TypeScript Specialist | AI-Powered Rapid Prototyping
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghimireaashutosh.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutosh-ghimire-045755197)
