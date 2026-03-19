@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,6,12,20&text=Hi%20I'm%20Aashutosh%20Ghimire (Ayush)&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi%20I'm%20Aashutosh%20Ghimire&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Specialist;Building+Modern+Web+Experiences;10%2B+Production+Apps+Delivered" alt="Typing SVG" />
@@ -49,9 +49,9 @@ const developer = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -106,9 +106,9 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -123,15 +123,15 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 <div align="center">
 
-###  Open to Remote Opportunities Worldwide
+### 💼 Open to Remote Opportunities Worldwide
 
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-Visit_Portfolio-blue?style=for-the-badge)](https://ghimireaashutosh.com.np)
 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,6,12,20&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
