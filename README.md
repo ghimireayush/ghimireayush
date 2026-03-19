@@ -5,7 +5,7 @@
 ### Frontend Developer • React & TypeScript Specialist • 10+ Production Apps
 
 <p>
-  <a href="https://ghimireaashutosh.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://ghimireaashutosh.com.np"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aashutosh-ghimire-045755197"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ghimireayush9841@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/9779867061277"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -21,11 +21,11 @@
 
 <br/>
 
-## 🎯 Quick Stats
+## Quick Stats
 
 <div align="center">
 
-| 🎖️ Achievement | 📊 Metric |
+| Achievement | Metric |
 |:---:|:---:|
 | **On-Time Delivery** | 100% |
 | **Deployment Speed** | +40% |
@@ -40,7 +40,7 @@
 
 <br/>
 
-## 💻 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 <br/>
 
-## 🚀 Featured Work
+## Featured Work
 
 <div align="center">
 
@@ -71,24 +71,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ [ToolForge](https://tforge.netlify.app/)
+### [ToolForge](https://tforge.netlify.app/)
 **100+ Developer Tools Platform**
 
-✨ Browser-based utilities  
-🔒 Client-side processing  
-📱 PWA with offline support
+Browser-based utilities  
+Client-side processing  
+PWA with offline support
 
 `Next.js` `TypeScript` `Turborepo`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
+### [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
 **Legal Tech for 30M+ Users**
 
-📄 Bilingual document generator  
-👨‍⚖️ Lawyer directory  
-🌐 Full i18n support
+Bilingual document generator  
+Lawyer directory  
+Full i18n support
 
 `React` `TypeScript` `Supabase`
 
@@ -97,24 +97,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏔️ [Bagamati Tourism](https://tourism.bagamati.gov.np/)
+### [Bagamati Tourism](https://tourism.bagamati.gov.np/)
 **Government Tourism Portal**
 
-🗺️ Location discovery  
-📰 Dynamic blog system  
-🏨 API integration
+Location discovery  
+Dynamic blog system  
+API integration
 
 `React 19` `Vite` `Clean Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-### 🥛 [Golmeshor Dairy](https://golmeshor-dairy.vercel.app/)
+### [Golmeshor Dairy](https://golmeshor-dairy.vercel.app/)
 **E-Commerce Platform**
 
-🛒 Shopping cart  
-📧 OTP ordering  
-📊 Analytics dashboard
+Shopping cart  
+OTP ordering  
+Analytics dashboard
 
 `Next.js 15` `Supabase` `PWA`
 
@@ -134,7 +134,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -153,13 +153,13 @@
 
 <div align="center">
 
-### 💬 Random Dev Wisdom
+### Random Dev Wisdom
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 <br/>
 
-**Open to remote opportunities worldwide** 🌍
+**Open to remote opportunities worldwide**
 
 <br/>
 
