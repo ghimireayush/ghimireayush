@@ -120,8 +120,8 @@ const aashutosh = {
 <div align="center">
 
 <a href="https://github.com/ghimireayush">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ghimireayush&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
 </div>
