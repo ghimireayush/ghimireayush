@@ -1,17 +1,82 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aashutosh%20Ghimire&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aashutosh%20Ghimire&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20TypeScript%20Specialist&descSize=20&descAlignY=55" />
 
-### Frontend Developer • React & TypeScript Specialist • 10+ Production Apps
+<br/>
 
-<p>
-  <a href="https://ghimireaashutosh.com.np"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aashutosh-ghimire-045755197"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ghimireayush9841@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/9779867061277"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<p align="center">
+  <a href="https://ghimireaashutosh.com.np">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aashutosh-ghimire-045755197">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ghimireayush9841@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/9779867061277">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=ghimireayush&color=blueviolet&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=ghimireayush&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=10%2B+Production+Apps+Delivered;100%25+On-Time+Delivery+Record;40%25+Faster+Deployments;90%2B+Lighthouse+Scores" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/><br/>
+
+<div align="center">
+
+## 💎 Core Competencies
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><strong>Tailwind CSS</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br><strong>Supabase</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+<br><strong>Redux</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br><strong>Vite</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><strong>Vercel</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -19,108 +84,139 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
-## Quick Stats
+<br/><br/>
 
 <div align="center">
 
-| Achievement | Metric |
-|:---:|:---:|
-| **On-Time Delivery** | 100% |
-| **Deployment Speed** | +40% |
-| **Lighthouse Score** | 90+ |
-| **Career Growth** | QA → Dev in 2 months |
+## 🏆 Featured Projects
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## Tech Arsenal
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## Featured Work
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [ToolForge](https://tforge.netlify.app/)
+<div align="center">
+
+### 🛠️ ToolForge
 **100+ Developer Tools Platform**
 
-Browser-based utilities  
-Client-side processing  
-PWA with offline support
+</div>
 
-`Next.js` `TypeScript` `Turborepo`
+<br/>
+
+• Browser-based utilities across 8 categories  
+• 100% client-side processing for privacy  
+• PWA with offline support  
+• Admin panel with analytics
+
+<br/>
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo)
+
+[**View Project →**](https://tforge.netlify.app/)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
+<div align="center">
+
+### ⚖️ Nepal Legal Connect
 **Legal Tech for 30M+ Users**
 
-Bilingual document generator  
-Lawyer directory  
-Full i18n support
+</div>
 
-`React` `TypeScript` `Supabase`
+<br/>
+
+• Bilingual document generator (Nepali/English)  
+• Lawyer directory with admin dashboards  
+• Blog CMS with full i18n support  
+• PWA with offline capabilities
+
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+
+[**View Project →**](https://legaltechnepal.netlify.app/)
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Bagamati Tourism](https://tourism.bagamati.gov.np/)
+<div align="center">
+
+### 🏔️ Bagamati Tourism
 **Government Tourism Portal**
 
-Location discovery  
-Dynamic blog system  
-API integration
+</div>
 
-`React 19` `Vite` `Clean Architecture`
+<br/>
+
+• Location-based destination discovery  
+• Dynamic blog system with media galleries  
+• Accommodation listings with API integration  
+• Clean Architecture implementation
+
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+
+[**View Project →**](https://tourism.bagamati.gov.np/)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### [Golmeshor Dairy](https://golmeshor-dairy.vercel.app/)
+<div align="center">
+
+### 🥛 Golmeshor Dairy
 **E-Commerce Platform**
 
-Shopping cart  
-OTP ordering  
-Analytics dashboard
+</div>
 
-`Next.js 15` `Supabase` `PWA`
+<br/>
+
+• Product catalog with shopping cart  
+• OTP-verified ordering system  
+• Email confirmations via Brevo  
+• Analytics dashboard with tracking
+
+<br/>
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa)
+
+[**View Project →**](https://golmeshor-dairy.vercel.app/)
+
+</div>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<br/>
 
 <a href="https://ghimireaashutosh.com.np">
   <img src="https://img.shields.io/badge/View_All_Projects-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -132,16 +228,18 @@ Analytics dashboard
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
-## GitHub Analytics
+<br/><br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
+## 📊 GitHub Analytics
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true&height=300" />
 
 </div>
 
@@ -149,17 +247,15 @@ Analytics dashboard
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
-### Random Dev Wisdom
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<br/><br/>
 
-<br/>
-
-**Open to remote opportunities worldwide**
+**Open to remote opportunities worldwide** 🌍
 
 <br/>
 
