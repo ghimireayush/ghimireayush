@@ -155,14 +155,17 @@ const aashutosh = {
 - 📫 Reach me at: **ghimireayush9841@gmail.com**
 - ⚡ Fun fact: **Mastered React in 8 weeks and got promoted from QA to Developer!**
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghimireaashutosh.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutosh-ghimire-045755197)
 [![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghimireayush9841@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+977_9867061277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9779867061277)
+
+[![Phone](https://img.shields.io/badge/Phone-+977_9867061277-0088CC?style=for-the-badge&logo=phone&logoColor=white)](tel:+9779867061277)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779867061277)
+[![Viber](https://img.shields.io/badge/Viber-Call_Me-7360F2?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=9779867061277)
 
 </div>
 
