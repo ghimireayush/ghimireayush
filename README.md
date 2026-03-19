@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aashutosh Ghimire
+# Hi, I'm Aashutosh Ghimire(Ayush)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Specialist;Building+Modern+Web+Experiences;10%2B+Production+Apps+Delivered" alt="Typing SVG" />
