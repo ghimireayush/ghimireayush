@@ -119,10 +119,7 @@ const aashutosh = {
 
 <div align="center">
 
-<a href="https://github.com/ghimireayush">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
