@@ -32,9 +32,7 @@ const developer = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -46,8 +44,6 @@ const developer = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -55,7 +51,7 @@ const developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -112,7 +108,7 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -131,7 +127,7 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <div align="center">
 
-### 💼 Open to Remote Opportunities Worldwide
+###  Open to Remote Opportunities Worldwide
 
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-Visit_Portfolio-blue?style=for-the-badge)](https://ghimireaashutosh.com.np)
 
