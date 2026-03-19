@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const aashutosh = {
@@ -33,15 +33,15 @@ const aashutosh = {
 };
 ```
 
-## 💼 Professional Highlights
+## Professional Highlights
 
-- 🎯 **100% On-Time Delivery** - Zero missed deadlines across 10+ production projects
-- ⚡ **40% Faster Deployments** - Through AI workflows and CI/CD automation
-- 🏆 **WCAG 2.1 AA Compliant** - Accessibility standards maintained across all projects
-- 📈 **Rapid Career Growth** - Promoted from QA Intern to Frontend Developer in 2 months
-- 🌐 **Remote-Ready** - Flexible across all time zones with professional infrastructure
+- **100% On-Time Delivery** - Zero missed deadlines across 10+ production projects
+- **40% Faster Deployments** - Through AI workflows and CI/CD automation
+- **WCAG 2.1 AA Compliant** - Accessibility standards maintained across all projects
+- **Rapid Career Growth** - Promoted from QA Intern to Frontend Developer in 2 months
+- **Remote-Ready** - Flexible across all time zones with professional infrastructure
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -69,65 +69,64 @@ const aashutosh = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛠️ [ToolForge](https://tforge.netlify.app/)
+### [ToolForge](https://tforge.netlify.app/)
 **100+ Developer Tools Platform** - Production-ready developer tools with admin panel, analytics, and PWA support
-- 🔧 100+ browser-based utilities across 8 categories
-- 🔒 100% client-side processing for complete privacy
-- 📱 PWA with offline support
+- 100+ browser-based utilities across 8 categories
+- 100% client-side processing for complete privacy
+- PWA with offline support
 - **Tech:** Next.js 16, TypeScript, Turborepo, Supabase, Web Crypto API
 
-### ⚖️ [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
+### [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
 **Legal Tech Platform** - Serving Nepal's 30M+ population with bilingual support
-- 📄 Legal document generator (Nepali/English)
-- 👨‍⚖️ Lawyer directory with admin dashboards
-- 📝 Blog CMS with full i18n support
+- Legal document generator (Nepali/English)
+- Lawyer directory with admin dashboards
+- Blog CMS with full i18n support
 - **Tech:** React 18, TypeScript, Supabase, jsPDF, PWA
 
-### 🏔️ [Bagamati Tourism Website](https://tourism.bagamati.gov.np/)
+### [Bagamati Tourism Website](https://tourism.bagamati.gov.np/)
 **Government Tourism Portal** - Comprehensive tourism platform for Bagamati Province
-- 🗺️ Location-based destination discovery
-- 📰 Dynamic blog system with media galleries
-- 🏨 Accommodation listings with API integration
+- Location-based destination discovery
+- Dynamic blog system with media galleries
+- Accommodation listings with API integration
 - **Tech:** React 19, Vite, Clean Architecture, RESTful API
 
-### 🥛 [Golmeshor Dairy & Bakery](https://golmeshor-dairy.vercel.app/)
+### [Golmeshor Dairy & Bakery](https://golmeshor-dairy.vercel.app/)
 **Full-Stack E-Commerce** - Modern dairy business platform with admin panel
-- 🛒 Product catalog with shopping cart
-- 📧 OTP-verified ordering with email confirmations
-- 📊 Analytics dashboard with order tracking
+- Product catalog with shopping cart
+- OTP-verified ordering with email confirmations
+- Analytics dashboard with order tracking
 - **Tech:** Next.js 15, TypeScript, Supabase, React Query, PWA
 
-### 🚨 [Emergency Response System](https://alertsys.netlify.app/)
+### [Emergency Response System](https://alertsys.netlify.app/)
 **Real-Time Emergency Platform** - OpenStreetMap integration with role-based access
-- 🗺️ Interactive mapping with Leaflet
-- 📍 Real-time incident tracking
-- 🎯 Delivered in 2-week sprint
+- Interactive mapping with Leaflet
+- Real-time incident tracking
+- Delivered in 2-week sprint
 - **Tech:** React, TypeScript, OpenStreetMap, Zustand
 
-### 💼 [Udaan Sarathi](https://udaansarathi.com/)
+### [Udaan Sarathi](https://udaansarathi.com/)
 **Recruitment Platform** - Comprehensive recruitment management for Nepal's job market
-- 🔐 Phone-based OTP authentication
-- 🌐 Dual language support (English/Nepali)
-- 👥 Multi-portal architecture (Admin, Owner, Member)
+- Phone-based OTP authentication
+- Dual language support (English/Nepali)
+- Multi-portal architecture (Admin, Owner, Member)
 - **Tech:** React 18, Vite, Context API, RBAC
 
 [**View All 10+ Projects →**](https://ghimireaashutosh.com.np)
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+<a href="https://github.com/ghimireayush">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+</a>
 
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -135,16 +134,16 @@ const aashutosh = {
 
 </div>
 
-## 🎯 What I'm Up To
+## What I'm Up To
 
-- 🔭 Building production-ready React applications with TypeScript
-- 🌱 Exploring advanced Next.js patterns and system design
-- 👯 Open to collaborating on innovative web projects
-- 💬 Ask me about React, TypeScript, Next.js, or AI-assisted development
-- 📫 Reach me at: **ghimireayush9841@gmail.com**
-- ⚡ Fun fact: **Mastered React in 8 weeks and got promoted from QA to Developer!**
+- Building production-ready React applications with TypeScript
+- Exploring advanced Next.js patterns and system design
+- Open to collaborating on innovative web projects
+- Ask me about React, TypeScript, Next.js, or AI-assisted development
+- Reach me at: **ghimireayush9841@gmail.com**
+- Fun fact: **Mastered React in 8 weeks and got promoted from QA to Developer!**
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -162,14 +161,14 @@ const aashutosh = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🌟 Support My Work
+### Support My Work
 
-If you like my projects, consider giving them a ⭐️!
+If you like my projects, consider giving them a star!
 
-**Available for remote opportunities and exciting projects** 🚀
+**Available for remote opportunities and exciting projects**
 
 </div>
