@@ -138,8 +138,8 @@ Analytics dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ghimireayush&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true" />
 
