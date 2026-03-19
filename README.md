@@ -29,10 +29,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=10%2B+Production+Apps+Delivered;100%25+On-Time+Delivery+Record;40%25+Faster+Deployments;90%2B+Lighthouse+Scores" alt="Typing SVG" />
 </p>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/><br/>
 
 <div align="center">
@@ -79,10 +75,6 @@
 </table>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/><br/>
 
@@ -224,10 +216,6 @@
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/><br/>
 
 <div align="center">
@@ -242,10 +230,6 @@
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true&height=300" />
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/><br/>
 
