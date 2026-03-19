@@ -1,250 +1,129 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aashutosh%20Ghimire&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20TypeScript%20Specialist&descSize=20&descAlignY=55" />
-
-<br/>
+# Hi, I'm Aashutosh Ghimire
 
 <p align="center">
-  <a href="https://ghimireaashutosh.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aashutosh-ghimire-045755197">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ghimireayush9841@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/9779867061277">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Specialist;Building+Modern+Web+Experiences;10%2B+Production+Apps+Delivered" alt="Typing SVG" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ghimireayush&color=blueviolet&style=for-the-badge"/>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat&logoColor=white)](https://ghimireaashutosh.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutosh-ghimire-045755197)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ghimireayush9841@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9779867061277)
+[![Viber](https://img.shields.io/badge/Viber-7360F2?style=flat&logo=viber&logoColor=white)](viber://chat?number=9779867061277)
 
 <br/>
 
-<div align="center">
-
-**10+ Production Apps Delivered • 100% On-Time Delivery Record • 40% Faster Deployments • 90+ Lighthouse Scores**
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-## Core Competencies
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><strong>Next.js</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind CSS</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br><strong>Supabase</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br><strong>Redux</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br><strong>Vite</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br><strong>Vercel</strong>
-</td>
-</tr>
-</table>
+```typescript
+const developer = {
+  name: "Aashutosh Ghimire",
+  location: "Nepal 🇳🇵",
+  focus: ["React", "TypeScript", "Next.js", "Performance"],
+  metrics: {
+    productionApps: "10+",
+    onTimeDelivery: "100%",
+    lighthouseScore: "90+",
+    deploymentSpeed: "+40%"
+  }
+};
+```
 
 </div>
 
-<br/><br/>
+---
+
+##  Tech Stack
 
 <div align="center">
 
-## Featured Projects
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+---
+
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+###  [ToolForge](https://tforge.netlify.app/)
 
-### ToolForge
 **100+ Developer Tools Platform**
 
-</div>
+Browser-based utilities across 8 categories with 100% client-side processing. Features PWA support and admin analytics.
 
-<br/>
-
-• Browser-based utilities across 8 categories  
-• 100% client-side processing for privacy  
-• PWA with offline support  
-• Admin panel with analytics
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo" alt="Turborepo" />
-
-[**View Project →**](https://tforge.netlify.app/)
-
-</div>
+`Next.js` `TypeScript` `Turborepo` `PWA`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+###  [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
 
-### Nepal Legal Connect
 **Legal Tech for 30M+ Users**
 
-</div>
+Bilingual document generator with lawyer directory and admin dashboards. Full i18n support with PWA capabilities.
 
-<br/>
-
-• Bilingual document generator (Nepali/English)  
-• Lawyer directory with admin dashboards  
-• Blog CMS with full i18n support  
-• PWA with offline capabilities
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase" alt="Supabase" />
-
-[**View Project →**](https://legaltechnepal.netlify.app/)
-
-</div>
+`React` `TypeScript` `Supabase` `i18n`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+###  [Bagamati Tourism](https://tourism.bagamati.gov.np/)
 
-### Bagamati Tourism
 **Government Tourism Portal**
 
-</div>
+Location-based destination discovery with dynamic blog system and media galleries. Clean Architecture implementation.
 
-<br/>
-
-• Location-based destination discovery  
-• Dynamic blog system with media galleries  
-• Accommodation listings with API integration  
-• Clean Architecture implementation
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" alt="Vite" />
-
-[**View Project →**](https://tourism.bagamati.gov.np/)
-
-</div>
+`React 19` `Vite` `Clean Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+### [Golmeshor Dairy](https://golmeshor-dairy.vercel.app/)
 
-### Golmeshor Dairy
 **E-Commerce Platform**
 
-</div>
+Product catalog with OTP-verified ordering and email confirmations. Includes analytics dashboard with tracking.
 
-<br/>
-
-• Product catalog with shopping cart  
-• OTP-verified ordering system  
-• Email confirmations via Brevo  
-• Analytics dashboard with tracking
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js" alt="Next.js" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase" alt="Supabase" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa" alt="PWA" />
-
-[**View Project →**](https://golmeshor-dairy.vercel.app/)
-
-</div>
+`Next.js 15` `Supabase` `PWA` `Brevo`
 
 </td>
 </tr>
 </table>
 
+---
+
+##  GitHub Stats
+
 <div align="center">
 
-<br/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<a href="https://ghimireaashutosh.com.np">
-  <img src="https://img.shields.io/badge/View_All_Projects-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
-<br/><br/>
+---
 
 <div align="center">
 
-## GitHub Analytics
+###  Open to Remote Opportunities Worldwide
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" />
+[![Portfolio](https://img.shields.io/badge/View_All_Projects-Visit_Portfolio-blue?style=for-the-badge)](https://ghimireaashutosh.com.np)
 
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true&height=300" />
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-<br/><br/>
-
-**Open to remote opportunities worldwide**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
