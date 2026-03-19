@@ -51,7 +51,7 @@ const developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <div align="center">
 
-### 💼 Open to Remote Opportunities Worldwide
+###  Open to Remote Opportunities Worldwide
 
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-Visit_Portfolio-blue?style=for-the-badge)](https://ghimireaashutosh.com.np)
 
