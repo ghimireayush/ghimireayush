@@ -167,19 +167,19 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <!-- GitHub Streak Card -->
 <a href="https://github.com/ghimireayush">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FFB86C&currStreakNum=C9D1D9&currStreakLabel=3B82F6" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FFB86C&currStreakNum=C9D1D9&currStreakLabel=3B82F6" />
 </a>
 
 <br/><br/>
 
 <!-- Top Languages -->
 <a href="https://github.com/ghimireayush">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6&t=20260320" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6&t=20260320" />
 </a>
 
 <!-- Activity Graph -->
 <a href="https://github.com/ghimireayush">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFB86C&area=true&t=20260320" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFB86C&area=true&t=20260320" />
 </a>
 
 
