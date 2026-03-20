@@ -113,12 +113,12 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&theme=tokyonight&hide_border=true&t=20260320" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&t=20260320" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&theme=tokyo-night&hide_border=true&area=true&t=20260320" />
 
 </div>
 
