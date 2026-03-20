@@ -7,7 +7,7 @@
 
 <!-- Interactive Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend Developer;React & TypeScript Specialist;Building Modern Web Experiences;10+ Production Apps Delivered;Open to Remote Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend%20Developer;React%20%26%20TypeScript%20Specialist;Building%20Modern%20Web%20Experiences;10%2B%20Production%20Apps%20Delivered;Open%20to%20Remote%20Opportunities" />
 </p>
 
 <!-- Animated Social Links -->
