@@ -202,7 +202,7 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <p align="center">
   <a href="https://ghimireaashutosh.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge&logoColor=white&labelColor=1f1f1f" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
   </a>
   <a href="mailto:ghimireayush9841@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
