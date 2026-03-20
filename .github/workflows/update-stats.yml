@@ -1,0 +1,26 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:        # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Purge stats cache
+        run: |
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&purge=true" || true
+          curl -s "https://github-readme-stats.vercel.app/api?username=ghimireayush&cache_seconds=1800&purge=true" || true
+
+      - name: Touch README to force re-render
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          touch README.md
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh stats [skip ci]"
+          git push
