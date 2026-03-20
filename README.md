@@ -16,7 +16,7 @@
 
 ```typescript
 const developer = {
-  name: "Aashutosh Ghimire",
+  name: "Aashutosh (Ayush) Ghimire",
   location: "Nepal 🇳🇵",
   focus: ["React", "TypeScript", "Next.js", "Performance"],
   metrics: {
