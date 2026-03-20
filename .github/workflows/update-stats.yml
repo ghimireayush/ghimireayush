@@ -15,15 +15,14 @@ jobs:
 
       - name: Purge stats cache
         run: |
-          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&purge=true" || true
-          curl -s "https://github-readme-stats.vercel.app/api?username=ghimireayush&cache_seconds=1800&purge=true" || true
-          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&purge=true" || true
+          curl -X POST "https://github-readme-streak-stats.herokuapp.com/purge" -d "user=ghimireayush" || true
+          curl -X POST "https://github-readme-stats.vercel.app/purge" -d "username=ghimireayush" || true
+          sleep 30
 
-      - name: Touch README to force re-render
+      - name: Force cache invalidation
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          touch README.md
+          # Add timestamp to break cache
+          sed -i "s/<!-- Last updated:.*-->/<!-- Last updated: $(date -u +%Y-%m-%dT%H:%M:%SZ) -->/" README.md
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: refresh stats [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: force cache break [skip ci]"
           git push
