@@ -15,6 +15,7 @@ jobs:
         run: |
           curl -s "https://github-readme-streak-stats.herokuapp.com/?user=ghimireayush&purge=true" || true
           curl -s "https://github-readme-stats.vercel.app/api?username=ghimireayush&cache_seconds=1800&purge=true" || true
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=ghimireayush&purge=true" || true
 
       - name: Touch README to force re-render
         run: |

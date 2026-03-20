@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Last updated: 2026-03-20 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi%20I'm%20Aashutosh(Ayush)%20Ghimire&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
 <p align="center">
