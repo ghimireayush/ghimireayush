@@ -222,7 +222,7 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 <!-- Animated Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0F172A,1E293B,334155&text=Building%20the%20future%2C%20one%20line%20of%20code%20at%20a%20time&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=40&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0F172A,1E293B,334155&text=Building%20the%20future%2C%20one%20line%20of%20code%20at%20a%20time&fontSize=25&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&section=footer" />
 
 
 </div>
