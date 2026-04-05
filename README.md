@@ -172,10 +172,6 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 <br/><br/>
 
-<!-- Top Languages -->
-<a href="https://github.com/ghimireayush">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6&cache_seconds=86400" />
-</a>
 
 <!-- Activity Graph -->
 <a href="https://github.com/ghimireayush">
