@@ -154,23 +154,6 @@ Real-time order tracking with menu builder and table management. Scalable multi-
 </div>
 
 </td>
-<td width="50%" valign="top" align="center">
-
-### [Udaan Sarathi](https://udaansarathi.com/)
-
-**Recruitment Platform**
-
-Multi-portal system with phone OTP authentication. Bilingual English/Nepali support with AI-assisted scheduling.
-
-<div align="center">
-
-`React 18` `Context API` `i18n` `OTP Auth`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://udaansarathi.com/)
-
-</div>
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
@@ -186,6 +169,23 @@ Advanced SEO with 5 sitemaps (48+ URLs), 55 testimonials, AI crawler optimizatio
 `Next.js 16` `React 19` `TypeScript` `SEO`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://rainbowcolourhouse.com/)
+
+</div>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### [Udaan Sarathi](https://udaansarathi.com/)
+
+**Recruitment Platform**
+
+Multi-portal system with phone OTP authentication. Bilingual English/Nepali support with AI-assisted scheduling.
+
+<div align="center">
+
+`React 18` `Context API` `i18n` `OTP Auth`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://udaansarathi.com/)
 
 </div>
 
