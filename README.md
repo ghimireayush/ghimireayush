@@ -66,7 +66,7 @@ const developer = {
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,redux,vite,supabase&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,redux,vite,supabase,flutter&theme=dark&perline=8" />
 </p>
 
 <p align="center">
