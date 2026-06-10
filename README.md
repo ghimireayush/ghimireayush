@@ -229,7 +229,7 @@ Browser-based utilities across 8 categories with 100% client-side processing. Fe
 
 ### Open to Remote Opportunities Worldwide
 
-**Product Builder | Front End Developer | React Developer | Next.js developer| Full Stack Developer**
+**Product Builder | Front End Developer | React Developer | Next.js developer | Full Stack Developer**
 
 <br/>
 
