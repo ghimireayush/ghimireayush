@@ -7,7 +7,7 @@
 
 <!-- Interactive Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend%20Developer;React%20%26%20TypeScript%20Specialist;Building%20Modern%20Web%20Experiences;10%2B%20Production%20Apps%20Delivered;Open%20to%20Remote%20Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Product%20Builder%20%7C%20Full-Stack%20Developer;React%20%26%20TypeScript%20Specialist;Building%20Modern%20Web%20Experiences;12%20Production%20Apps%20in%2015%20Months;Open%20to%20Remote%20Opportunities" />
 </p>
 
 <!-- Animated Social Links -->
@@ -43,7 +43,8 @@ const developer = {
   focus: ["React", "TypeScript", "Next.js", "Performance"],
   currentStatus: "Open to Remote Opportunities",
   metrics: {
-    productionApps: "10+",
+    productionApps: "12",
+    timeFrame: "15 months",
     onTimeDelivery: "100%",
     lighthouseScore: "90+",
     deploymentSpeed: "+40%",
@@ -138,6 +139,59 @@ Location-based destination discovery with dynamic blog system and media gallerie
 </td>
 <td width="50%" valign="top" align="center">
 
+### [Meza Restaurant](https://meza-phi.vercel.app/)
+
+**Multi-Tenant Restaurant SaaS**
+
+Real-time order tracking with menu builder and table management. Scalable multi-location architecture.
+
+<div align="center">
+
+`React` `Next.js` `Supabase` `Real-time`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://meza-phi.vercel.app/)
+
+</div>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### [Rainbow Colour House](https://rainbowcolourhouse.com/)
+
+**Painting Services Website**
+
+Advanced SEO with 5 sitemaps (48+ URLs), 55 testimonials, AI crawler optimization. WCAG Level A compliant.
+
+<div align="center">
+
+`Next.js 16` `React 19` `TypeScript` `SEO`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://rainbowcolourhouse.com/)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### [Udaan Sarathi](https://udaansarathi.com/)
+
+**Recruitment Platform**
+
+Multi-portal system with phone OTP authentication. Bilingual English/Nepali support with AI-assisted scheduling.
+
+<div align="center">
+
+`React 18` `Context API` `i18n` `OTP Auth`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://udaansarathi.com/)
+
+</div>
+
+</td>
+<td width="50%" valign="top" align="center">
+
 ### [Golmeshor Dairy](https://golmeshor-dairy.vercel.app/)
 
 **E-Commerce Platform**
@@ -192,7 +246,7 @@ Product catalog with OTP-verified ordering and email confirmations. Includes ana
 
 ### Open to Remote Opportunities Worldwide
 
-**Frontend Developer | React Specialist | TypeScript Expert**
+**Product Builder | Full-Stack Developer | React Specialist**
 
 <br/>
 
