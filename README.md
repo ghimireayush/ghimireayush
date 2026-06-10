@@ -86,42 +86,6 @@ const developer = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-### [ToolForge](https://tforge.netlify.app/)
-
-**100+ Developer Tools Platform**
-
-Browser-based utilities across 8 categories with 100% client-side processing. Features PWA support and admin analytics.
-
-<div align="center">
-
-`Next.js` `TypeScript` `Turborepo` `PWA`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://tforge.netlify.app/)
-
-</div>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
-
-**Legal Tech for 30M+ Users**
-
-Bilingual document generator with lawyer directory and admin dashboards. Full i18n support with PWA capabilities.
-
-<div align="center">
-
-`React` `TypeScript` `Supabase` `i18n`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://legaltechnepal.netlify.app/)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
 ### [Bagamati Tourism](https://tourism.bagamati.gov.np/)
 
 **Government Tourism Portal**
@@ -175,6 +139,25 @@ Advanced SEO with 5 sitemaps (48+ URLs), 55 testimonials, AI crawler optimizatio
 </td>
 <td width="50%" valign="top" align="center">
 
+### [Nepal Legal Connect](https://legaltechnepal.netlify.app/)
+
+**Legal Tech for 30M+ Users**
+
+Bilingual document generator with lawyer directory and admin dashboards. Full i18n support with PWA capabilities.
+
+<div align="center">
+
+`React` `TypeScript` `Supabase` `i18n`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://legaltechnepal.netlify.app/)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
 ### [Udaan Sarathi](https://udaansarathi.com/)
 
 **Recruitment Platform**
@@ -186,6 +169,23 @@ Multi-portal system with phone OTP authentication. Bilingual English/Nepali supp
 `React 18` `Context API` `i18n` `OTP Auth`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://udaansarathi.com/)
+
+</div>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### [ToolForge](https://tforge.netlify.app/)
+
+**100+ Developer Tools Platform**
+
+Browser-based utilities across 8 categories with 100% client-side processing. Features PWA support and admin analytics.
+
+<div align="center">
+
+`Next.js` `TypeScript` `Turborepo` `PWA`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuNSA0LjVWMTQuNUg2LjVWOS41SDguNVYxNC41SDE0LjVWNC41SDEwLjVWMS41SDguNVY2LjVINi41VjEuNUgxLjVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+&labelColor=1f1f1f)](https://tforge.netlify.app/)
 
 </div>
 
