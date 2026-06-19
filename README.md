@@ -40,7 +40,7 @@ const developer = {
   name: "Aashutosh (Ayush) Ghimire",
   location: "Nepal",
   pronouns: "He/Him",
-  focus: ["React", "TypeScript", "Next.js", "Performance"],
+  focus: ["React", "TypeScript", "Next.js","Supabase", "Performance"],
   currentStatus: "Open to Remote Opportunities",
   metrics: {
     productionApps: "12",
